@@ -1,0 +1,6 @@
+Enter file contents here
+public static void main（String []args){
+   String firstString ="my love is Lynn";
+   String ask="Who is  yourlove?";
+   system.out.println(ask+""+firstString);
+}
